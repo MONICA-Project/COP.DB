@@ -2,7 +2,7 @@
 <!-- Short description of the project. -->
 
 The MONICA COP.DB is the database schema used for the COP.API
-![COP.DB Schema](https://github.com/MONICA-Project/COP.DB/raw/master/monica_v1_3.svg) 
+![COP.DB Schema](./monica_v1_3.svg) 
 
 All data required to build shared situational awareness in MONICA is managed by the COP database, it includes instance data, i.e. points of interest, zones et c. But it also keeps track of incidents e tc.
 
